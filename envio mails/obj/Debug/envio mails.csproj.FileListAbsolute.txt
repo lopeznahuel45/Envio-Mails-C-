@@ -1,0 +1,7 @@
+C:\Users\Nahuel\source\repos\envio mails\envio mails\bin\Debug\envio mails.exe.config
+C:\Users\Nahuel\source\repos\envio mails\envio mails\bin\Debug\envio mails.exe
+C:\Users\Nahuel\source\repos\envio mails\envio mails\bin\Debug\envio mails.pdb
+C:\Users\Nahuel\source\repos\envio mails\envio mails\obj\Debug\envio mails.csproj.AssemblyReference.cache
+C:\Users\Nahuel\source\repos\envio mails\envio mails\obj\Debug\envio mails.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\source\repos\envio mails\envio mails\obj\Debug\envio mails.exe
+C:\Users\Nahuel\source\repos\envio mails\envio mails\obj\Debug\envio mails.pdb
